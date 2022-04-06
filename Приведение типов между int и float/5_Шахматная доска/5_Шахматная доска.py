@@ -1,0 +1,5 @@
+x = float(input('Расположение по горизонтали: '))
+y = float(input('Расположение по вертикали: '))
+x_square = int(x * 10)
+y_square = int(y * 10)
+print('Фигура находиться в клетке:', x_square, y_square)

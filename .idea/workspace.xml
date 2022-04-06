@@ -1,13 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0738f008-14fe-4fdf-a51d-7f14511800f7" name="Changes" comment="" />
+    <list default="true" id="0738f008-14fe-4fdf-a51d-7f14511800f7" name="Changes" comment="Математические функции. Работа с модулем math">
+      <change afterPath="$PROJECT_DIR$/Приведение типов между int и float/1_Космические рейнджеры/1_Космические рейнджеры.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Приведение типов между int и float/1_Космические рейнджеры/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Приведение типов между int и float/2_Компьютерное зрение/2_Компьютерное зрение.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Приведение типов между int и float/2_Компьютерное зрение/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Приведение типов между int и float/3_Точность и аккуратность/3_Точность и аккуратность.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Приведение типов между int и float/3_Точность и аккуратность/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Приведение типов между int и float/4_Сила удара/4_Сила удара.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Приведение типов между int и float/4_Сила удара/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Приведение типов между int и float/5_Шахматная доска/5_Шахматная доска.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Приведение типов между int и float/5_Шахматная доска/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="27RC1WC46sQdjcF9R4akXVdLMs5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -15,6 +30,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
@@ -27,6 +43,45 @@
       <option name="presentableId" value="Default" />
       <updated>1649273297816</updated>
     </task>
+    <task id="LOCAL-00001" summary="_Домашняя работа">
+      <created>1649273621011</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649273621011</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Ввод вещественного числа. Функции float и round">
+      <created>1649273726158</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649273726158</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Математические функции. Работа с модулем math">
+      <created>1649273769600</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1649273769600</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="_Домашняя работа" />
+    <MESSAGE value="Ввод вещественного числа. Функции float и round" />
+    <MESSAGE value="Математические функции. Работа с модулем math" />
+    <option name="LAST_COMMIT_MESSAGE" value="Математические функции. Работа с модулем math" />
   </component>
 </project>
